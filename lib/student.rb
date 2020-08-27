@@ -11,7 +11,8 @@ def initialize(name, grade, id = NIL)
   @id = id
 end 
 
-
+def self.create_table 
+  
 
 
 
