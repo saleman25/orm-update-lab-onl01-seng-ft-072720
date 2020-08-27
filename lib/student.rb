@@ -12,7 +12,7 @@ def initialize(name, grade, id = NIL)
 end 
 
 def self.create_table 
-  
+  sql
 
 
 
