@@ -8,7 +8,6 @@ def initialize(id=NIL, grade, )
   @id = id
   @name = name 
   @grade = grade
-  
 end 
 
 def self.create_table 
